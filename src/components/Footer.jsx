@@ -41,12 +41,12 @@ export default function Footer() {
             <div className="footer-link-group">
               <h4>Social</h4>
               <a href="https://www.linkedin.com/in/kunsangdorjay/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-              <a href="https://github.com/kunsangdorjay" target="_blank" rel="noopener noreferrer">GitHub</a>
-              <a href="https://instagram.com/kungzantt" target="_blank" rel="noopener noreferrer">Instagram</a>
+              <a href="https://github.com/kunsangg" target="_blank" rel="noopener noreferrer">GitHub</a>
+              <a href="https://www.instagram.com/kunsangdorjay01/" target="_blank" rel="noopener noreferrer">Instagram</a>
             </div>
             <div className="footer-link-group">
               <h4>Work</h4>
-              <a href="https://github.com/kunsangdorjay?tab=repositories" target="_blank" rel="noopener noreferrer">Projects</a>
+              <a href="https://github.com/kunsangg?tab=repositories" target="_blank" rel="noopener noreferrer">Projects</a>
               <a href="#ventures">Ventures</a>
             </div>
           </div>
@@ -57,13 +57,13 @@ export default function Footer() {
             © {new Date().getFullYear()} KUNSANG DORJAY BHUTIA. All rights reserved.
           </div>
           <div className="footer-socials">
-            <a href="https://github.com/kunsangdorjay" target="_blank" rel="noopener noreferrer" className="footer-social">
+            <a href="https://github.com/kunsangg" target="_blank" rel="noopener noreferrer" className="footer-social">
               GitHub <ArrowIcon />
             </a>
             <a href="https://www.linkedin.com/in/kunsangdorjay/" target="_blank" rel="noopener noreferrer" className="footer-social">
               LinkedIn <ArrowIcon />
             </a>
-            <a href="https://instagram.com/kungzantt" target="_blank" rel="noopener noreferrer" className="footer-social">
+            <a href="https://www.instagram.com/kunsangdorjay01/" target="_blank" rel="noopener noreferrer" className="footer-social">
               Instagram <ArrowIcon />
             </a>
             <a href="https://discord.com/users/kungzanttt" target="_blank" rel="noopener noreferrer" className="footer-social">

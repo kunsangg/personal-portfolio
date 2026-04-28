@@ -87,8 +87,8 @@ export default function Certifications() {
             <img src={lightbox.img} alt={lightbox.title} />
             <div className="cert-lightbox-bar">
               <div>
-                <div style={{ fontFamily:'var(--mono)', fontSize:'.58rem', color:'var(--muted)', letterSpacing:'.08em', textTransform:'uppercase', marginBottom:'4px' }}>{lightbox.company}</div>
-                <div style={{ fontFamily:'var(--serif)', fontWeight:400, fontSize:'1rem', color:'var(--text)' }}>{lightbox.title}</div>
+                <div style={{ fontFamily:'var(--f)', fontSize:'.58rem', color:'var(--muted)', letterSpacing:'.08em', textTransform:'uppercase', marginBottom:'4px' }}>{lightbox.company}</div>
+                <div style={{ fontFamily:'var(--f)', fontWeight:400, fontSize:'1rem', color:'var(--text)' }}>{lightbox.title}</div>
               </div>
               <div className="cert-lightbox-close" onClick={() => setLightbox(null)}>Close ×</div>
             </div>

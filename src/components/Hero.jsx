@@ -76,11 +76,11 @@ export default function Hero() {
 
       {/* top-right counter with progress bar */}
       <div className="hero-counter">
-        <span style={{ fontFamily: 'var(--mono)' }}>{String(current + 1).padStart(2, '0')}</span>
+        <span style={{ fontFamily: 'var(--f)' }}>{String(current + 1).padStart(2, '0')}</span>
         <div className="hero-counter-bar">
           <div className="hero-counter-fill" style={{ width: fillWidth + '%', transition: fillWidth === 0 ? 'none' : `width ${INTERVAL}ms linear` }}></div>
         </div>
-        <span style={{ fontFamily: 'var(--mono)' }}>{String(SLIDES.length).padStart(2, '0')}</span>
+        <span style={{ fontFamily: 'var(--f)' }}>{String(SLIDES.length).padStart(2, '0')}</span>
       </div>
 
       {/* bottom-right dots */}
