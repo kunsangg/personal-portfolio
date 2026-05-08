@@ -99,7 +99,7 @@ export default function About() {
             That Feel Alive
           </h2>
           <div className="about-text">
-            I'm Kunsang Dorjay Bhutia — a multidisciplinary creative from Darjeeling, building at the intersection of design, code, and AI. Frontend Developer, UI/UX Designer, Graphic Designer, Video Editor, and Entrepreneur. I founded Deexen AI, co-founded Nesion, and built Resolio. Every project starts with intent and ends with impact.
+            I'm Kunsang Dorjay Bhutia — a multidisciplinary creative from Darjeeling, building at the intersection of design, code, and AI. Frontend Developer, UI/UX Designer, Graphic Designer, Video Editor, and Entrepreneur. I founded Deexen AI, and built Resolio. Every project starts with intent and ends with impact.
           </div>
           <div className="about-stats">
             <div>

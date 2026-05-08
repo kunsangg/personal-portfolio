@@ -30,13 +30,6 @@ const projects = [
     links: [],
   },
   {
-    tag: 'AI Tools · Startup · Stealth',
-    title: 'Nesion',
-    desc: 'Co-founder & COO. Reduces 40% of VRAM usage for locally running AI models — making local AI real on consumer hardware.',
-    sym: 'Nesion',
-    links: [],
-  },
-  {
     tag: 'Frontend · React · GSAP',
     title: 'Portfolio v1',
     desc: 'The predecessor to this site. Built with references from Aura Build — where building in public began.',

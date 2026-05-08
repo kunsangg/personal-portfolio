@@ -90,7 +90,7 @@ export default function Team() {
             <span>React · Tailwind · GSAP</span><span className="sep"></span>
             <span className="ghost">Figma · Photoshop · AE</span><span className="sep"></span>
             <span>Deexen AI</span><span className="sep"></span>
-            <span className="ghost">Nesion · Resolio</span><span className="sep"></span>
+            <span className="ghost"> · Resolio</span><span className="sep"></span>
             <span>Flutter · Ollama · LLM</span><span className="sep"></span>
             <span className="ghost">Deexen Labs</span><span className="sep"></span>
             <span>Debug · Expand · Enhance</span><span className="sep"></span>

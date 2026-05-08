@@ -22,16 +22,6 @@ export default function Ventures() {
             <div className="venture-badge active"><div className="venture-badge-dot"></div>Active · In Development</div>
           </div>
 
-          {/* Nesion */}
-          <div className="venture-card">
-            <div className="venture-logo-area">
-              <div className="venture-logo-text">NESION</div>
-            </div>
-            <div className="venture-card-role">Co-Founder & COO</div>
-            <div className="venture-card-name">Nesion</div>
-            <div className="venture-card-desc">Reduces 40% of VRAM usage for locally running AI models — making local AI accessible on consumer hardware. No expensive GPU required.</div>
-            <div className="venture-badge stealth"><div className="venture-badge-dot"></div>Active · Stealth</div>
-          </div>
 
           {/* Resolio */}
           <div className="venture-card">
